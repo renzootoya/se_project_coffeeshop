@@ -160,17 +160,17 @@
   background-image: url(/images/background_reservation.svg);
 }
 
-.form {
-  max-width: 385px;
-}
-
-.form___title {
+.reservation__title {
   font-family: Inter;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
   color: #000;
+}
+
+.form {
+  max-width: 385px;
 }
 
 .form__label {
