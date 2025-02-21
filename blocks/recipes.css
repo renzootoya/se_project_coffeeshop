@@ -2,24 +2,27 @@
   color: white;
   background-color: #0a2750;
   padding: 100px 80px 215px;
+  background: center/cover no-repeat #fff url(../images/background_recipes.svg);
 }
 
 .recipes__title {
   margin: 0 0 24px;
-  font-family: "Inter";
+  font-family: "inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 44px;
   line-height: 52px;
+  max-width: 580px;
 }
 
 .recipes__subtitle {
   margin: 0 0 80px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-style: normal;
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  max-width: 438px;
 }
 
 .recipes__videos {

@@ -3,7 +3,7 @@
 }
 
 .form__label {
-  font-family: Inter;
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -35,12 +35,12 @@
 }
 
 .form__button {
-  width: 100%;
+  width: 385px;
   border: none;
   padding: 20px 0;
   border-radius: 4px;
   margin-bottom: 32px;
-  font-family: Inter;
+  font-family: "Inter";
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -48,7 +48,7 @@
   color: #fff;
   background-color: #1878dc;
   cursor: pointer;
-  transition: background-color 0.5s;
+  transition: background-color 0.5s ease-in-out;
 }
 
 .form__buttom:hover {
